@@ -1,0 +1,2 @@
+//To read documents by queries
+db.school.find({'name':'Holberton school'})
