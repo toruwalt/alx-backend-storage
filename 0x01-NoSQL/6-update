@@ -1,2 +1,2 @@
 //To update a collection by adding a new document
-db.school.update({name:'Holberton school'}, {$set : {adddress:  '972 Mission street'}}, {multi: true})
+db.school.update({name: 'Holberton school'}, {$set : {adddress:  '972 Mission street'}}, {multi: true})
